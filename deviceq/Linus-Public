@@ -1,0 +1,23 @@
+Device name: GeForce GTX 660
+Major: 3
+Minor: 0
+TotalGlobalMem(Bytes): 1561329664
+SharedMemPerBlock: 49152
+RegsPerBlock: 65536
+WarpSize: 32
+MemPitch: 2147483647
+MaxThreadsPerBlock: 1024
+MaxThreadsPerMultiProcessor: 2048
+MaxThreadsDim[0]: 1024
+MaxGridSize[0]: 2147483647
+MaxThreadsDim[1]: 1024
+MaxGridSize[1]: 65535
+MaxThreadsDim[2]: 64
+MaxGridSize[2]: 65535
+ClockRate: 888500
+TotalConstMem: 65536
+TextureAlignment: 512
+DeviceOverlap: 1
+MultiProcessorCount: 6
+KernelExecTimeoutEnabled: 1
+
